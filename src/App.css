@@ -1,0 +1,26 @@
+.result-item
+{
+    width: 50%;
+    padding: 5px;
+    margin: 5px;
+}
+
+.question.result
+{
+    padding: 5px;
+    background-color: transparent;
+    color: black;
+    width: 100%;
+}
+
+.difficulty, .correct-answer, .user-answer
+{
+    padding: 5px;
+    border-bottom: 2px solid black;
+}
+
+.result-item label
+{
+    display: inline-block;
+    width: 20%;
+}

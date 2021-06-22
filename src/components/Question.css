@@ -1,0 +1,21 @@
+.question {
+    margin: 5px;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+    width: 50%;
+}
+
+.question button {
+    background-color: darkblue;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    font-size: 16px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.question button:hover {
+    background-color: rgb(0, 0, 173);
+}
