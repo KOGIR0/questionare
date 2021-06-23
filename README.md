@@ -19,7 +19,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 ## Images
 
 Question\
-![](https://github.com/KOGIR0/questionare/blob/main/imgs/q1.png)
+![](https://github.com/KOGIR0/questionare/blob/main/imgs/q1.png)\
 Results\
-![](https://github.com/KOGIR0/questionare/blob/main/imgs/qr1.png)
-![](https://github.com/KOGIR0/questionare/blob/main/imgs/qr2.png)
+![](https://github.com/KOGIR0/questionare/blob/main/imgs/qr1.png)\
+![](https://github.com/KOGIR0/questionare/blob/main/imgs/qr2.png)\
